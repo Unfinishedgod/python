@@ -1,0 +1,5 @@
+# .ipynb파일(주피터)을 .py로 변환시키는 코드
+# command 창에서 
+# jupyter nbconvert --to script (filename).ipynb
+
+jupyter nbconvert --to script python_test.ipynb
