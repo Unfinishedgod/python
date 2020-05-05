@@ -1,0 +1,88 @@
+[W 01:46:44.967 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 01:46:44.999 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 01:46:44.999 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 01:46:45.001 NotebookApp] Serving notebooks from local directory: /home/owen/python
+[I 01:46:45.001 NotebookApp] The Jupyter Notebook is running at:
+[I 01:46:45.001 NotebookApp] http://ip-172-31-47-130.ap-northeast-2.compute.internal:8888/
+[I 01:46:45.001 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 01:46:45.005 NotebookApp] No web browser found: could not locate runnable browser.
+[E 01:46:47.081 NotebookApp] Could not open static file ''
+[W 01:46:47.140 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (106.249.160.106) 6.43ms referer=http://13.209.52.67:8888/tree?
+[W 01:46:47.168 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (106.249.160.106) 1.03ms referer=http://13.209.52.67:8888/tree?
+[W 01:46:56.463 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (106.249.160.106) 1.13ms referer=http://13.209.52.67:8888/notebooks/handson_ml_chapter2.ipynb
+[W 01:46:56.526 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (106.249.160.106) 1.15ms referer=http://13.209.52.67:8888/notebooks/handson_ml_chapter2.ipynb
+[W 01:46:56.901 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 01:47:00.505 NotebookApp] Kernel started: 019766cc-21cb-4415-a925-3de5c69903b7
+[I 01:47:00.901 NotebookApp] Adapting from protocol version 5.1 (kernel 019766cc-21cb-4415-a925-3de5c69903b7) to 5.3 (client).
+[I 01:57:00.894 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 01:57:00.895 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 01:59:00.865 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 01:59:00.867 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:01:00.980 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:01:00.981 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:03:00.783 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:03:00.785 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:05:00.861 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:05:00.863 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:07:01.639 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:07:01.660 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:09:03.189 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:09:03.191 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:11:04.176 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:11:04.178 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:13:01.528 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:13:01.530 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:15:01.440 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:15:01.442 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:17:01.704 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:17:01.705 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:19:01.364 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:19:01.366 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:21:01.106 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:21:01.108 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:23:01.794 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:23:01.796 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:25:01.518 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:25:01.520 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:27:01.074 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:27:01.075 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:29:02.077 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:29:02.078 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:31:01.504 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:31:01.506 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:33:01.308 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:33:01.309 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:35:01.144 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:35:01.146 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:37:01.292 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:37:01.293 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:39:01.436 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:39:01.437 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:40:20.486 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:40:20.488 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:41:01.494 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:41:01.495 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:43:01.279 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:43:01.281 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:45:01.027 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:45:01.029 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:47:01.025 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:47:01.027 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:49:01.587 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:49:01.589 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:51:01.633 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:51:01.635 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:53:01.297 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:53:01.298 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:55:03.318 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:55:03.319 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:57:02.210 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:57:02.211 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 02:59:01.503 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 02:59:01.505 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 03:01:01.154 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 03:01:01.155 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 03:01:01.392 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 03:01:01.394 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
+[I 03:03:01.575 NotebookApp] Saving file at /handson_ml_chapter2.ipynb
+[W 03:03:01.577 NotebookApp] Notebook handson_ml_chapter2.ipynb is not trusted
