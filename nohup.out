@@ -1,0 +1,10 @@
+[W 08:28:11.561 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 08:28:11.591 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 08:28:11.592 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 08:28:11.593 NotebookApp] Serving notebooks from local directory: /home/owen/python
+[I 08:28:11.593 NotebookApp] The Jupyter Notebook is running at:
+[I 08:28:11.593 NotebookApp] http://ip-172-31-47-130.ap-northeast-2.compute.internal:8888/
+[I 08:28:11.593 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 08:28:11.597 NotebookApp] No web browser found: could not locate runnable browser.
+[C 08:46:26.547 NotebookApp] received signal 15, stopping
+[I 08:46:26.547 NotebookApp] Shutting down 0 kernels
